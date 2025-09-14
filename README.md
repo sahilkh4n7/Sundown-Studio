@@ -25,7 +25,7 @@ This website demonstrates smooth animations, scrolling effects, and a modern des
 ---
 
 ## 📸 Preview
-![Project Screenshot](./Assets/feature.webp)
+![Project Screenshot](./Assets/preview.png)
 
 ---
 
