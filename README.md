@@ -15,24 +15,6 @@ This website demonstrates smooth animations, scrolling effects, and a modern des
 
 ---
 
-## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Styling and responsive design
-├── script.js # JavaScript for animations & interactivity
-├── Assets/ # Images, fonts, icons, and video
-│ ├── logo.svg
-│ ├── hamburger-button.png
-│ ├── Sundown Studio.mp4
-│ ├── feature.webp
-│ ├── img1.webp ... img7.webp
-│ ├── dpe.jpg
-│ ├── NeueHaasDisplayMediu.ttf
-│ ├── NeueHaasDisplayLight.ttf
-│ └── NeueHaasDisplayRoman.ttf
-└── icon.png # Favicon
-
----
-
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, Animations, Media Queries)
